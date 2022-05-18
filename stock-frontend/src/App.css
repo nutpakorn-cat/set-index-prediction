@@ -1,0 +1,25 @@
+.prediction-background {
+    width: 100%;
+    height: 394px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.footer {
+    margin-top: 60px;
+    padding-bottom: 15px;
+    width: 100%;
+    color: white;
+    background-color: rgb(26, 26, 26);
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}

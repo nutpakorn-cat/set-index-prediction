@@ -1,0 +1,1 @@
+export const API_ENDPOINT = 'https://set-index-prediction.software/api';
